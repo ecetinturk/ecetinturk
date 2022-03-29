@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **Emirhan**
+- 👀 I’m interested in network security and management of CISCO systems.
+- 🌱 I’m lately learning Python, C++ and Cisco OS.
+- 🏫 I’m currently a Computer Engineering student at Eskişehir Osmangazi University.
