@@ -5,4 +5,6 @@
 - 🌱 I’m lately learning Python, C++ and Cisco OS.
 - 🏫 I’m currently a Computer Engineering student at Eskişehir Osmangazi University.
 
-![](https://komarev.com/ghpvc/?username=ecetinturk&color=green)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=ecetinturk&color=green)
+</p>
