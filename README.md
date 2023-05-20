@@ -8,3 +8,4 @@
 
 [](https://komarev.com/ghpvc/?username=ecetinturk&color=green)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecetinturk)](https://github.com/anuraghazra/github-readme-stats)
