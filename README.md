@@ -6,7 +6,7 @@
 - 🏫 I’m currently a Computer Engineering student at Eskişehir Osmangazi University.
 
 
-![](https://komarev.com/ghpvc/?username=ecetinturk&color=green)
+[](https://komarev.com/ghpvc/?username=ecetinturk&color=green)
 
 
 <p align="center">
