@@ -6,5 +6,10 @@
 - 🏫 I’m currently a Computer Engineering student at Eskişehir Osmangazi University.
 
 
+
+$$E=mc^2$$ 
+
+$$dsadfas$$
+
 [](https://komarev.com/ghpvc/?username=ecetinturk&color=green)
 
