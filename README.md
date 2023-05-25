@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m **Emirhan**
-##### I'm a 25-year-old, who is eager to learn and ambitious.
+##### I'm a 26-year-old, who is eager to learn and ambitious.
 ---
 - 👀 I’m interested in network security and embedded systems.
 - 🌱 I’m lately learning QT Framework and STM32.
 - 🏫 I’m currently a Computer Engineering student at Eskişehir Osmangazi University.
-<br>
+---
 <p align="center">
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/ecetinturk"></a>
 </p>
@@ -24,6 +24,11 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 📟 Electronics:
+
+![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-100000?style=for-the-badge&logo=STMicroelectronics&logoColor=FFFFFF&labelColor=03234b&color=03234b)
+![Arduino](https://img.shields.io/badge/Arduino-100000?style=for-the-badge&logo=Arduino&logoColor=FFFFFF&labelColor=008184&color=008184)
 
 ### 🎛️ OS:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
