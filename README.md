@@ -6,7 +6,9 @@
 - 🏫 I’m currently a Computer Engineering student at Eskişehir Osmangazi University.
 ---
 <p align="center">
-  <a href="#"><img alt="" src="https://gpvc.arturio.dev/ecetinturk"></a>
+  <a href="https://github.com/ecetinturk">
+    <img src="https://komarev.com/ghpvc/?username=ecetinturk&color=green" />
+  </a>
 </p>
 
 ### 🔗 Connect with me:
